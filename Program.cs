@@ -19,3 +19,8 @@ int[] GetArray(int size)
   return array;
 }
 
+void PrintArray(int[] array)
+{
+  Console.Write($"[{String.Join(", ", array)}]");
+  Console.WriteLine();
+}

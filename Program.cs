@@ -24,3 +24,5 @@ void PrintArray(int[] array)
   Console.Write($"[{String.Join(", ", array)}]");
   Console.WriteLine();
 }
+
+int[] NewArray(int[] array)

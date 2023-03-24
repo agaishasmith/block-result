@@ -26,3 +26,9 @@ void PrintArray(int[] array)
 }
 
 int[] NewArray(int[] array)
+int el = array[i];
+for (int i = 0; i < array.Lenght; i++)
+{
+    if (el <= 3)
+    return el
+}

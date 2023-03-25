@@ -1,0 +1,15 @@
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.csproj.AssemblyReference.cache
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.AssemblyInfoInputs.cache
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.AssemblyInfo.cs
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.csproj.CoreCompileInputs.cache
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\bin\Debug\net6.0\Block result.exe
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\bin\Debug\net6.0\Block result.deps.json
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\bin\Debug\net6.0\Block result.runtimeconfig.json
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\bin\Debug\net6.0\Block result.dll
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\bin\Debug\net6.0\Block result.pdb
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.dll
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\refint\Block result.dll
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.pdb
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\Block result.genruntimeconfig.cache
+C:\Users\Agaisha Ibrasheva\Desktop\IT STUDING\Block result\obj\Debug\net6.0\ref\Block result.dll

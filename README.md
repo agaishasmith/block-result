@@ -5,3 +5,9 @@
 РЕШЕНИЕ
 
 https://github.com/agaishasmith/block-result/blob/main/Program.cs
+
+ПОЯСНЕНИЕ КОДА
+
+1. PrintArray - распечатывает заданный массив
+2. FindElements - ищет элементы массива с тремя и менее символами и создает новый массив
+3. PrintArray elements - распечатывает новый массив с заданной длиной

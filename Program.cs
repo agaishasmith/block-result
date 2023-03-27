@@ -22,11 +22,12 @@ void FindElement(string[] array, string[] elements)
         }
     }
 }
+
 void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{String.Join(", ", array[i])} ");
     }
     Console.WriteLine();
 }
